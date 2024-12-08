@@ -1,6 +1,6 @@
-# E-vent Progressive Web Application
+# Event Organizing Progressive Web Application
 
-E-vent is a progressive web application to manage news about events. The app implements:
+Event organizing progressive web application to manage news about events. The app implements:
 - data cache
 - image lazy loading
 - camera detection
